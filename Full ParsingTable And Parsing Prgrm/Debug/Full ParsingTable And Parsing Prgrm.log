@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\M7md_2\Desktop\PSUT\Third Year 21 - 22\Second Semester\Theory Of Computation\Project\My Code\Full ParsingTable And Parsing Prgrm\Source.cpp(55,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\M7md_2\Desktop\PSUT\Third Year 21 - 22\Second Semester\Theory Of Computation\Project\My Code\Full ParsingTable And Parsing Prgrm\Source.cpp(380,21): error C2601: 'follow': local function definitions are illegal
+C:\Users\M7md_2\Desktop\PSUT\Third Year 21 - 22\Second Semester\Theory Of Computation\Project\My Code\Full ParsingTable And Parsing Prgrm\Source.cpp(55): message : this line contains a '{' which has not yet been matched
+C:\Users\M7md_2\Desktop\PSUT\Third Year 21 - 22\Second Semester\Theory Of Computation\Project\My Code\Full ParsingTable And Parsing Prgrm\Source.cpp(407,40): error C2601: 'findfirst': local function definitions are illegal
+C:\Users\M7md_2\Desktop\PSUT\Third Year 21 - 22\Second Semester\Theory Of Computation\Project\My Code\Full ParsingTable And Parsing Prgrm\Source.cpp(55): message : this line contains a '{' which has not yet been matched
+C:\Users\M7md_2\Desktop\PSUT\Third Year 21 - 22\Second Semester\Theory Of Computation\Project\My Code\Full ParsingTable And Parsing Prgrm\Source.cpp(441,42): error C2601: 'followfirst': local function definitions are illegal
+C:\Users\M7md_2\Desktop\PSUT\Third Year 21 - 22\Second Semester\Theory Of Computation\Project\My Code\Full ParsingTable And Parsing Prgrm\Source.cpp(55): message : this line contains a '{' which has not yet been matched
+C:\Users\M7md_2\Desktop\PSUT\Third Year 21 - 22\Second Semester\Theory Of Computation\Project\My Code\Full ParsingTable And Parsing Prgrm\Source.cpp(55): fatal error C1075: '{': no matching token found

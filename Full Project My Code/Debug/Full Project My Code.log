@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\M7md_2\Desktop\PSUT\Third Year 21 - 22\Second Semester\Theory Of Computation\Project\Full Project My Code\Source.cpp(50,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\M7md_2\Desktop\PSUT\Third Year 21 - 22\Second Semester\Theory Of Computation\Project\Full Project My Code\Source.cpp(53,12): warning C4101: 'choice': unreferenced local variable
+C:\Users\M7md_2\Desktop\PSUT\Third Year 21 - 22\Second Semester\Theory Of Computation\Project\Full Project My Code\Source.cpp(54,13): warning C4101: 'ch': unreferenced local variable
+C:\Users\M7md_2\Desktop\PSUT\Third Year 21 - 22\Second Semester\Theory Of Computation\Project\Full Project My Code\Source.cpp(462,9): warning C4101: 'k': unreferenced local variable
+  Full Project My Code.vcxproj -> C:\Users\M7md_2\Desktop\PSUT\Third Year 21 - 22\Second Semester\Theory Of Computation\Project\Full Project My Code\Debug\Full Project My Code.exe

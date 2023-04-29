@@ -1,7 +1,0 @@
-﻿  Source.cpp
-C:\Users\M7md_2\Desktop\PSUT\Third Year 21 - 22\Second Semester\Theory Of Computation\Project\My Code\Parsing Table\Source.cpp(8,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
-C:\Users\M7md_2\Desktop\PSUT\Third Year 21 - 22\Second Semester\Theory Of Computation\Project\My Code\Parsing Table\Source.cpp(13,12): warning C4473: 'scanf_s' : not enough arguments passed for format string
-C:\Users\M7md_2\Desktop\PSUT\Third Year 21 - 22\Second Semester\Theory Of Computation\Project\My Code\Parsing Table\Source.cpp(13,12): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
-C:\Users\M7md_2\Desktop\PSUT\Third Year 21 - 22\Second Semester\Theory Of Computation\Project\My Code\Parsing Table\Source.cpp(13,12): message : the missing variadic argument 2 is required by format string '%s'
-C:\Users\M7md_2\Desktop\PSUT\Third Year 21 - 22\Second Semester\Theory Of Computation\Project\My Code\Parsing Table\Source.cpp(13,12): message : this argument is used as a buffer size
-  Parsing Table.vcxproj -> C:\Users\M7md_2\Desktop\PSUT\Third Year 21 - 22\Second Semester\Theory Of Computation\Project\My Code\Parsing Table\Debug\Parsing Table.exe

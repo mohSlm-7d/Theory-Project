@@ -67,11 +67,11 @@ int main() {
     std::printf("-----------------------------------------------\n\n");
 
     // The Input grammar
-    strcpy(production[0], "S=mABcD");
-    strcpy(production[1], "A=aA");
-    strcpy(production[2], "A=#");
-    strcpy(production[3], "B=b");
-    strcpy(production[4], "D=d");
+    strcpy_s(production[0], "S=mABcD");
+    strcpy_s(production[1], "A=aA");
+    strcpy_s(production[2], "A=#");
+    strcpy_s(production[3], "B=b");
+    strcpy_s(production[4], "D=d");
 
     int kay;
     char* done = new char[count];
